@@ -1,0 +1,119 @@
+/*
+Theme Name: Silver Platinum
+Theme URI: https://www.lumiathemes.com/portfolio/silver-platinum/
+Author: Benjamin Lu
+Author URI: https://www.lumiathemes.com
+Template: twentytwelve
+Description: Silver Platinum is a responsive theme based on Twenty Twelve.
+License: GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-background, custom-header, one-column, right-sidebar, two-columns
+Version: 0.0.9
+Text Domain: silver-platinum
+*/
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sanchez', serif;
+}
+
+.site-header h1 a,
+.site-description {
+    display: block;
+    font-family: 'Sanchez', serif;
+    text-align: center;
+}
+
+.site-header h1, .site-header h2 {
+    text-align: center;
+}
+
+.site-header h2 {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.site-header h1 a {
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+.main-navigation li a {
+    border-bottom: 0;
+    color: #6a6a6a;
+    font-family: 'Sanchez', serif;
+    font-size: 1.2em;
+    line-height: 3.692307692;
+    text-transform: none;
+    white-space: nowrap;
+}
+
+.main-navigation li ul li a {
+    font-size: 1.2em;
+    width: 220px;
+}
+
+article.sticky .featured-post {
+    font-size: 14px;
+}
+
+.entry-header .entry-title {
+    font-size: 32px;
+    line-height: 1.2;
+    font-family: 'Sanchez', serif;
+    font-weight: normal;
+}
+
+.site-content {
+    float: left;
+    width: 65.104166667%;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.widget-area .widget h3 {
+    font-family: 'Sanchez', serif;
+    font-size: 28px;
+    text-transform: none;
+    margin-bottom: 0;
+}
+
+.widget-area .widget a {
+    color: #757575;
+    font-size: 14px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.cat-link,
+.tag-link {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.tag-link .fa-tags {
+    margin: 0;
+}
+
+.tag-list,
+.cat-list {
+    font-size: 12px;
+}
+
+.site-footer {
+    margin: 1.250em 0 0 0;
+    padding: 0.938em 0 0 0;
+}
+
+.site-info {
+    font-family: 'Sanchez', serif;
+    font-size: 0.875em;
+    text-align: center;
+}
+
+.footer-title {
+    display: block;
+    font-size: 1.1em;
+}

@@ -1,0 +1,88 @@
+# Translation of Themes - Silver Platinum in English (UK)
+# This file is distributed under the same license as the Themes - Silver Platinum package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-21 09:08:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Silver Platinum\n"
+
+#. Description of the plugin/theme
+msgid "Silver Platinum is a responsive theme based on Twenty Twelve."
+msgstr "Silver Platinum is a responsive theme based on Twenty Twelve."
+
+#. Theme Name of the plugin/theme
+msgid "Silver Platinum"
+msgstr "Silver Platinum"
+
+#: functions.php:89
+msgid "<i class=\"fa fa-tags\"></i> Tagged"
+msgstr "<i class=\"fa fa-tags\"></i> Tagged"
+
+#: functions.php:82
+msgid "<i class=\"fa fa-folder-open-o\"></i> Posted In"
+msgstr "<i class=\"fa fa-folder-open-o\"></i> Posted In"
+
+#: functions.php:77 functions.php:78
+msgid " | "
+msgstr " | "
+
+#: functions.php:70
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: functions.php:64
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: footer.php:16
+msgid "%s"
+msgstr "%s"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:62
+msgid "About %s"
+msgstr "About %s"
+
+#: content.php:46
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content.php:45
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:34
+msgid "% Replies"
+msgstr "% Replies"
+
+#: content.php:34
+msgid "1 Reply"
+msgstr "1 Reply"
+
+#: content.php:34
+msgid "Leave a reply"
+msgstr "Leave a Reply"
+
+#: content.php:16
+msgid "Featured Post"
+msgstr "Featured Post"
+
+#. Author URI of the plugin/theme
+msgid "https://www.lumiathemes.com"
+msgstr "https://www.lumiathemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.lumiathemes.com/portfolio/silver-platinum/"
+msgstr "https://www.lumiathemes.com/portfolio/silver-platinum/"
+
+#. Author of the plugin/theme
+msgid "Benjamin Lu"
+msgstr "Benjamin Lu"
