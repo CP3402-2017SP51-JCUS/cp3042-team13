@@ -79,7 +79,7 @@ add_action( 'after_setup_theme', 'mytheme_setup' );
  * @global int $content_width
  */
 function mytheme_content_width() {
-	$GLOBALS['content_width'] = apply_filters( 'mytheme_content_width', 692 );
+	$GLOBALS['content_width'] = apply_filters( 'mytheme_content_width', 640 );
 }
 add_action( 'after_setup_theme', 'mytheme_content_width', 0 );
 

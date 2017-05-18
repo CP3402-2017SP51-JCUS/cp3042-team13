@@ -666,6 +666,7 @@ textarea {
 .sub-menu-columns ul {
     width:400px;
 }
+
 .main-navigation ul ul ul {
     margin-top: 0px;
     margin-left: 0px;
@@ -673,10 +674,16 @@ textarea {
 	top: 0;
 }
 .main-navigation ul ul ul a{
+    font-weight: normal;
     font-size: 12px;
 }
 .main-navigation ul ul a {
+    font-weight: normal;
     font-size: 14px;
+}
+.sub-menu-col ul{
+    width:400px;
+    font-size: 12px;
 }
 
 .main-navigation ul ul li {
