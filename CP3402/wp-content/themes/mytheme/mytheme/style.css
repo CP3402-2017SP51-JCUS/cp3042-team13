@@ -56,6 +56,13 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
 .site-content,.site-footer{
     background: #FFFFFF;
 }
+.linkText,.linkText:visited{
+	text-decoration: none;
+	color: black;
+}
+.linkText:hover{
+    color:#5aff92;
+}
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
@@ -648,7 +655,7 @@ textarea {
     text-transform: uppercase;
 }
 .main-navigation a:hover{
-    color: #41a62a;
+    color:#d0ff64;
 
 }
 
@@ -668,17 +675,17 @@ textarea {
 }
 
 .main-navigation ul ul ul {
-    margin-top: 0px;
+    margin-top: -40px;
     margin-left: 0px;
     left: -999em;
 	top: 0;
 }
 .main-navigation ul ul ul a{
-    font-weight: normal;
+    font-weight: 200;
     font-size: 12px;
 }
 .main-navigation ul ul a {
-    font-weight: normal;
+    font-weight: 200;
     font-size: 14px;
 }
 .sub-menu-col ul{
@@ -722,7 +729,7 @@ textarea {
 .main-navigation .current-menu-item > a,
 .main-navigation .current_page_ancestor > a,
 .main-navigation .current-menu-ancestor > a {
-    color: #41a62a;
+    color: #78d6ff;
 }
 
 /* Small menu. */
